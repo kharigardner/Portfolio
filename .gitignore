@@ -14,3 +14,5 @@
 *.png
 Data Science & Analytics/_data/maven/harry-potter/LICENSE
 Data Science & Analytics/notebooks/maven/.env
+*.metals
+*.vscode
