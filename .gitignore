@@ -3,3 +3,14 @@
 .json
 .shp
 .xlsx
+*.csv
+*.json
+*.dbf
+*.prj
+*.shp
+*.shx
+*.pyc
+*.code-workspace
+*.png
+Data Science & Analytics/_data/maven/harry-potter/LICENSE
+Data Science & Analytics/notebooks/maven/.env
